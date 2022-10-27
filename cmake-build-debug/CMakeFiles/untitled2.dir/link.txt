@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/untitled2.dir/helloWorld/helloworld.bpf.c.o -o untitled2 
